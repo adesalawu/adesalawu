@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Solution Architect | DevOps | Homelab
 ---------------------------------------------
 
-#* 🌍  I'm based in Ontario, Canada
+* 🌍  
 * ✉️  You can contact me at [adesalawu@icloud.com](mailto:adesalawu@icloud.com)
 * 🧠  I'm learning Terraform, Ansible, Python
 * 🤝  I'm open to collaborating on IoT, DevOps Projects
