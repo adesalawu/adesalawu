@@ -47,6 +47,6 @@ src="https://img.shields.io/twitch/status/adesalawu?logo=twitchsx&style=for-the-
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/adesalawu "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://patreon.com/adesalawu?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink "><img src="" width="150"/></a></li>
 
 </ul>
